@@ -10,5 +10,10 @@ Thi project focuses on the statistical analysis of a dataset of about 32000 vehi
 After a rough analysis of the influencing factors, a model was created with those. Using that model, one can estimate approximately what is the price of an ordinary middle class vehicle.
 
 ## Installation
+Anaconda distribution for python version 3 is the only requirement, in order to run the playbook.
 
 ## Conclusion
+The manufacturer of the vihicles in the price segment analyzed is not alone the only factor contributing to the price. It is more the comnbination of manufactorer and set of equipment or engine characteristics that determine the price.
+
+## Acknowledgements
+I'd like to express my gratitude to kaggle.com and all the contributers to the dataset  https://www.kaggle.com/prassanth/new-cars-price-2019 for prividing the data. 
