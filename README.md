@@ -10,7 +10,7 @@ Thi project focuses on the statistical analysis of a dataset of about 32000 vehi
 After a rough analysis of the influencing factors, a model was created with those. Using that model, one can estimate approximately what is the price of an ordinary middle class vehicle.
 
 ## Installation
-Anaconda distribution for python version 3 is the only requirement, in order to run the playbook.
+Anaconda distribution for python version 3 is the only requirement in order to run the notebook.
 
 ## Conclusion
 The manufacturer of the vihicles in the price segment analyzed is not alone the only factor contributing to the price. It is more the comnbination of manufactorer and set of equipment or engine characteristics that determine the price.
