@@ -1,5 +1,4 @@
 # Car price factors
-
 Link to the blog post on Medium https://atanasov-todor.medium.com/what-are-the-factors-that-define-the-price-of-a-car-8c5d4c2d5ccd
 
 Link to the GitHub repository https://github.com/taagitacc/car-price-factors.git
